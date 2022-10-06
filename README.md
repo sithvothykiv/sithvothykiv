@@ -47,14 +47,3 @@
 </div> -->
 
 
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
-
-
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
-[medium]: https://mhmzdev.medium.com/
-[dribbble]: https://dribbble.com/mhmzdev
