@@ -35,15 +35,6 @@
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 
 </div>
-<br>
 
-<!-- <div align="center">
-<p align="center">Nominate me as GitHub Star ⭐</p>
-
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
-</a>
-
-</div> -->
 
 
