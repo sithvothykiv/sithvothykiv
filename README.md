@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-<p align="center">🛠 Tools & Technology</p>
+<p align="center">Languages</p>
 
 <img src="https://img.shields.io/badge/Swift-02569B?style=for-the-badge&logo=swift&logoColor=orange" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
