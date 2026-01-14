@@ -30,13 +30,15 @@
 
 <br>
 <p align="center">Data Science</p>
-
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" />
 <img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black" />
 <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
 <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />
-
 <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" />
+
+
+
 </div>
 
 
